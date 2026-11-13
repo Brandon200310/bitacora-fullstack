@@ -1,0 +1,4 @@
+Que es internet?
+Que es la web?
+
+Los componentes de la arquitectura cliente-servidor
